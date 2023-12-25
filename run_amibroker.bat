@@ -1,0 +1,1 @@
+START C:\"Program Files"\AmiBroker\Broker.exe

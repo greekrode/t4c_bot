@@ -1,0 +1,12 @@
+node_modules/
+venv/
+alert/telebot/__pycache__/
+testhtml/
+test.js
+log.txt
+.env
+yarn-error.log
+bmp/
+.idea/
+data/
+scr/
